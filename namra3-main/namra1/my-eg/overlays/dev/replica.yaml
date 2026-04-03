@@ -1,0 +1,7 @@
+apiVersion: appconnect.ibm.com/v1beta1
+kind: IntegrationRuntime
+metadata:
+  name: my-eg
+  namespace: int
+spec:
+  replicas: 0
